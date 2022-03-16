@@ -22,6 +22,7 @@ e.g.
 
 name1 = "Chetan Kumar"
 name2 = "Janu"
+
 T occurs 1 times
 
 R occurs 1 time
