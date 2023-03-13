@@ -56,4 +56,4 @@ Example Input 2
 name1 = "chetankumar"
 name2 = "janu"
 Example Output 2
-Your score is 51.
+Your score is 51, you are good to be together.
